@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ketanbhalerao.github.io/csb-sopim/static/css/main.0da7791b.chunk.css",
+    "main.js": "https://ketanbhalerao.github.io/csb-sopim/static/js/main.cb6b672b.chunk.js",
+    "main.js.map": "https://ketanbhalerao.github.io/csb-sopim/static/js/main.cb6b672b.chunk.js.map",
+    "runtime-main.js": "https://ketanbhalerao.github.io/csb-sopim/static/js/runtime-main.a4be372a.js",
+    "runtime-main.js.map": "https://ketanbhalerao.github.io/csb-sopim/static/js/runtime-main.a4be372a.js.map",
+    "static/js/2.f615dbed.chunk.js": "https://ketanbhalerao.github.io/csb-sopim/static/js/2.f615dbed.chunk.js",
+    "static/js/2.f615dbed.chunk.js.map": "https://ketanbhalerao.github.io/csb-sopim/static/js/2.f615dbed.chunk.js.map",
+    "index.html": "https://ketanbhalerao.github.io/csb-sopim/index.html",
+    "static/css/main.0da7791b.chunk.css.map": "https://ketanbhalerao.github.io/csb-sopim/static/css/main.0da7791b.chunk.css.map",
+    "static/js/2.f615dbed.chunk.js.LICENSE.txt": "https://ketanbhalerao.github.io/csb-sopim/static/js/2.f615dbed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4be372a.js",
+    "static/js/2.f615dbed.chunk.js",
+    "static/css/main.0da7791b.chunk.css",
+    "static/js/main.cb6b672b.chunk.js"
+  ]
+}
